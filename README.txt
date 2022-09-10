@@ -1,7 +1,9 @@
+CSE438-Embedded Systems Programming
 
-.. _assignment2:
+Assignment 2 PWM Operation and Distance Measurement on RPi
+Name: Neeraja Lahudva Kuppuswamy
+ASU ID: 1224187432
 
-PWM Operation and Distance Measurement on RPi
 #############################################
 
 Overview
